@@ -1,0 +1,29 @@
+{
+  "name": "xyz.candycoded.alertconfirmdialog",
+  "displayName": "Alert Confirm Dialog",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0f1",
+  "description": "Display simple alert and confirm dialogs on both iOS and Android.",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.modules.androidjni": "1.0.0"
+  },
+  "keywords": [
+    "ios",
+    "android",
+    "alert",
+    "confirm",
+    "dialog"
+  ],
+  "author": {
+    "name": "Scott Doxey",
+    "email": "hello@scottdoxey.com",
+    "homepage": "http://scottdoxey.com/"
+  },
+  "homepage": "https://github.com/CandyCoded/AlertConfirmDialog",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CandyCoded/AlertConfirmDialog.git"
+  }
+}
