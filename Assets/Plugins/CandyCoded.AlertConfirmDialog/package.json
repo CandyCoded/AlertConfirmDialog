@@ -1,7 +1,7 @@
 {
   "name": "xyz.candycoded.alertconfirmdialog",
   "displayName": "Alert Confirm Dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.2",
   "unityRelease": "0f1",
   "description": "Display simple alert and confirm dialogs on both iOS and Android.",
