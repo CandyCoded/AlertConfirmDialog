@@ -15,7 +15,7 @@
 ```json
 {
   "dependencies": {
-    "xyz.candycoded.alertconfirmdialog": "https://github.com/CandyCoded/alertconfirmdialog.git#v1.0.1",
+    "xyz.candycoded.alertconfirmdialog": "https://github.com/CandyCoded/alertconfirmdialog.git#v2.0.0",
     ...
   }
 }
@@ -26,7 +26,7 @@
 ```json
 {
   "dependencies": {
-    "xyz.candycoded.alertconfirmdialog": "1.0.1",
+    "xyz.candycoded.alertconfirmdialog": "2.0.0",
     ...
   },
   "scopedRegistries": [
